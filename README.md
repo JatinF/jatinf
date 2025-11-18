@@ -10,18 +10,18 @@
 
 ### 👋 Hi there
 I’m **Jatinder**, an **AI & Machine Learning Engineer** focused on designing, evaluating, and deploying intelligent systems at scale.  
-My work combines **LLM architectures**, **retrieval-augmented generation (RAG)**, and **cloud-native MLOps**, bridging research and production reliability.
+My work bridges **LLM architectures**, **retrieval-augmented generation (RAG)**, and **cloud-native MLOps** — delivering AI that’s both performant and reliable.
 
-💡 **Mission:** Build AI that’s explainable, reliable, and scalable.
+💡 **Mission:** Build AI that’s explainable, robust, and production-ready.
 
 ---
 
-### ⚙️ Technical Focus Areas
+### ⚙️ Technical Focus
 ✅ LLM Evaluation & Benchmarking  
-✅ Retrieval-Augmented Generation (RAG) Pipelines  
+✅ Retrieval-Augmented Generation Pipelines  
 ✅ Cloud AI & MLOps (Terraform · Docker · MLflow)  
 ✅ Vector Databases & Hybrid Search (Pinecone · FAISS)  
-✅ Agentic AI Systems & LangChain Workflows  
+✅ Agentic AI Systems with LangChain  
 
 ---
 
@@ -71,17 +71,17 @@ My work combines **LLM architectures**, **retrieval-augmented generation (RAG)**
 ---
 
 ### 💬 About Me
-- 🧩 Passionate about **LLM reliability**, **evaluation frameworks**, and **infrastructure for AI at scale**  
-- 🧠 Experienced in **designing scalable RAG systems** and **production ML pipelines**  
+- 🧩 Passionate about **LLM reliability**, **evaluation frameworks**, and **AI infrastructure**  
+- ⚙️ Experienced in **RAG system design** and **MLOps pipeline deployment**  
 - 🌍 Based in California · Collaborating globally  
 
 ---
 
 ### 🤝 Let’s Collaborate
-If you’re working on **LLMs**, **RAG systems**, or **AI infrastructure**, I’d love to connect or contribute.  
+If you’re building **LLMs**, **RAG pipelines**, or **AI infrastructure**, I’d love to collaborate.  
 💬 Reach out on [LinkedIn](https://www.linkedin.com/in/jdheer/) or open an issue on any of my projects.
 
 ---
 
 ### 📄 License
-All public repositories in this profile are released under the **MIT License** unless otherwise specified.
+All public repositories in this profile are released under the **MIT License** unless otherwise noted.
