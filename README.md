@@ -2,7 +2,7 @@
 <h3 align="center">GenAI · LLM Evaluation · RAG Systems · ML Engineering · Cloud AI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/jdheer/">LinkedIn</a> • 
   <a href="https://github.com/JatinF">GitHub</a>
 </p>
 
@@ -71,6 +71,6 @@ I’m **Jatinder**, a **Machine Learning & LLM Engineer** focused on building, e
 
 ### 🤝 Let’s Collaborate
 If you’re building **LLM systems**, **RAG pipelines**, or **AI infrastructure**, I’d love to collaborate or contribute.  
-Reach out via [LinkedIn](https://www.linkedin.com/in/yourlinkedin)!
+Reach out via [LinkedIn](https://www.linkedin.com/in/jdheer/)!
 
 ---
